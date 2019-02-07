@@ -1,3 +1,5 @@
 {
-  "some":"test"
+  "users": [
+    { "id": 1, "name": "Marcel van Heist", "email": "marcelvanheist@gmail.com" }
+  ]
 }
